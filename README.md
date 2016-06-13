@@ -16,16 +16,14 @@ What you need to run this app:
 
 * Clone this repo: git clone https://github.com/kevinchisholm/creating-your-first-node.js-module.git
 
+### Before running the example code:
+
+* run this in your terminal, while in the root of the project: npm install
+
 ### Running the examples
 
 #### Example # 1:
 
 * node example-1.js
 
-#### Example # 2:
 
-* node example-2.js
-
-#### Example # 3:
-
-* node example-3.js
