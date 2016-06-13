@@ -1,6 +1,6 @@
 {
   "name": "dateTools",
-  "description": "Eample Node Module",
+  "description": "Example Node Module",
   "private": true,
   "version": "1.0.0",
   "main": "index.js"
