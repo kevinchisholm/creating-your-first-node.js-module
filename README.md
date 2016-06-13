@@ -18,7 +18,7 @@ What you need to run this app:
 
 ### Before running the example code:
 
-* run this in your terminal, while in the root of the project: *npm install*
+* run this in your terminal, while in the root of the project: **npm install**
 
 ### Running the examples
 
