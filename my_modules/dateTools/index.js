@@ -2,19 +2,19 @@ var days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 
 	months = ['January', 'February', 'March', 'April', 'May', 'June', 
 	'July', 'August', 'September', 'October', 'November', 'December'];
 
-var getDays = function () {
+function getDays () {
 	return days;
 };
 
-var getMonths = function () {
+function getMonths () {
 	return months;
 };
 
-var getDay = function (dayNumber) {
+function getDay (dayNumber) {
 	return (Number.isInteger(dayNumber) && (dayNumber <= (days.length - 1))) ? days[dayNumber] : '';
 };
 
-var getMonth = function (monthNumber) {
+function getMonth (monthNumber) {
 	return (Number.isInteger(monthNumber) && (monthNumber <= (months.length - 1))) ? months[monthNumber] : '';
 };
 
